@@ -32,25 +32,7 @@ export default function MeetChris() {
                 aria-hidden="true"
               />
 
-              {/* Authentic Cursive Script Overlay Matching Approved Reference */}
-              <div
-                className="absolute top-1/4 right-4 sm:right-6 lg:right-8 text-right text-white select-none drop-shadow-[0_2px_8px_rgba(0,0,0,0.7)]"
-                aria-hidden="true"
-              >
-                <p className="font-script text-2xl sm:text-3xl lg:text-[2.25rem] leading-none tracking-wide text-white">
-                  Local.
-                </p>
-                <p className="font-script text-2xl sm:text-3xl lg:text-[2.25rem] leading-none tracking-wide text-white mt-1">
-                  Trusted.
-                </p>
-                <p className="font-script text-2xl sm:text-3xl lg:text-[2.25rem] leading-none tracking-wide text-white mt-1">
-                  Owner Operated.
-                </p>
-                <div className="w-12 h-0.5 bg-gold ml-auto my-2 rounded-full" />
-                <p className="font-script text-3xl sm:text-4xl lg:text-5xl leading-none text-gold">
-                  Chris
-                </p>
-              </div>
+
             </div>
           </div>
 
