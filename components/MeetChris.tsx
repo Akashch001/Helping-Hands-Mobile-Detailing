@@ -61,25 +61,19 @@ export default function MeetChris() {
               MEET THE OWNER
             </p>
 
-            {/* Editorial Heading with Gold Dot */}
+            {/* Section Heading */}
             <h2
               id="meet-chris-heading"
-              className="font-dmserif text-navy text-3xl sm:text-4xl lg:text-5xl xl:text-[3.5rem] tracking-tight leading-tight mb-2"
+              className="font-dmserif text-navy text-2xl sm:text-3xl lg:text-4xl tracking-tight leading-tight mb-5"
             >
-              Hi, I&apos;m {BUSINESS.owner}
-              <span className="text-gold">.</span>
-            </h2>
-
-            {/* Subheading */}
-            <p className="font-dmserif text-navy/90 text-lg sm:text-xl lg:text-2xl mb-5">
               {BUSINESS.ownerTitle}
-            </p>
+            </h2>
 
             {/* Factual Bio from Approved Reference */}
             <p className="font-manrope text-charcoal/90 text-base sm:text-lg leading-relaxed mb-7 max-w-xl">
-              I started Helping Hands with a simple mission — to deliver high-quality,
+              We started Helping Hands with a simple mission — to deliver high-quality,
               professional detailing with honest service and real attention to detail.
-              I bring professional results directly to you, whether it&apos;s your home,
+              We bring professional results directly to you, whether it&apos;s your home,
               office, or anywhere in Dallas and surrounding areas.
             </p>
 
