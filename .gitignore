@@ -24,17 +24,29 @@
 .DS_Store
 *.pem
 
-# debug
+# debug & logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# env files
+.env
+.env*.local
 
 # vercel
 .vercel
+
+# temporary browser testing screenshots
+screenshot-*.png
+complete-desktop-*.png
+final-desktop-*.png
+final-tablet-*.png
+desktop-*.png
+tablet-*.png
+mobile-*.png
+*-screenshot.png
 
 # typescript
 *.tsbuildinfo

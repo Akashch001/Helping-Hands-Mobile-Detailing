@@ -71,9 +71,7 @@ npm run start
 
 ---
 
-## 📍 Business Information
+## 📍 Service Territory
 - **Business**: Helping Hands Mobile Detailing
-- **Owner**: Chris
-- **Location**: Dallas, Texas & Surrounding Areas
-- **Phone**: (972) 388-4721
-- **Email**: bigsleepy42067@gmail.com
+- **Service Area**: Dallas, Texas & Surrounding Metropolitan Areas
+
